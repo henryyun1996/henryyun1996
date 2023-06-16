@@ -24,7 +24,7 @@
   <p>🔭 I’m currently working on building full-stack websites for my friend's businesses</p>
   <p>🌱 I’m currently improving on my understanding of object-oriented programming</p>
   <p>💬 Ask me about my experience in a Coding Bootcamp</p>
-  <p>⚡ Fun fact: I studied aborad in Uganda 🇺🇬 during my undergraduate study for 5 months!</p>
+  <p>⚡ Fun fact: I studied abroad in Uganda 🇺🇬 during my undergraduate study for 5 months!</p>
 </div>
 
 <br />
